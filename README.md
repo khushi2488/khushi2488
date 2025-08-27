@@ -8,7 +8,7 @@ I enjoy contributing to **open-source projects**, exploring new technologies, an
 ---
 
 ## Skills
-- **Programming & Scripting:** Python, Java, JavaScript  
+- **Programming & Scripting:** Python, C/C++, Java, JavaScript  
 - **Web Development:** Django, MERN Stack  
 - **Data & AI/ML:** SQL, Pandas, NumPy, Machine Learning, Generative AI  
 - **Others:** DSA, Problem Solving, Open Source Contributions  
