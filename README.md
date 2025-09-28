@@ -1,25 +1,26 @@
 # Hi, I'm Khushi Patel 👋
 
-## About Me
-I'm a passionate **Python developer** and a recent **Computer Engineering graduate** from Government Engineering College, Gandhinagar. I have a keen interest in **AI/ML, Generative AI**, and love solving **Data Structures & Algorithms (DSA)** challenges.  
+## About Me  
 
-I enjoy contributing to **open-source projects**, exploring new technologies, and sharing my knowledge through writing. You can check out my technical blogs here: [Dev.to](https://dev.to/khushi2488).  
+I'm a passionate **Python developer** and a recent **Computer Engineering graduate** from Government Engineering College, Gandhinagar. I have a strong interest in **open-source contributions** and love **Problem Solving** challenges.  
+
+Through open-source, I’ve gained practical experience in collaborating with developers, fixing bugs, adding features, and improving project documentation. I actively contribute to **GitHub repositories** and believe in giving back to the community while enhancing my coding skills.  
+
+I also enjoy sharing my knowledge through **technical blogs** on [Dev.to](https://dev.to/khushi2488).  
 
 ---
 
 ## Skills
 - **Programming & Scripting:** Python, C/C++, Java, JavaScript  
-- **Web Development:** Django, MERN Stack  
-- **Data & AI/ML:** SQL, Pandas, NumPy, Machine Learning, Generative AI  
-- **Others:** DSA, Problem Solving, Open Source Contributions  
+- **Web Development:** Django, React.Js 
+- **Data & AI/ML:** SQL, Pandas, NumPy, Machine Learning, Deep Learning
+- **Others:** Open Source Contributions, DSA, Problem Solving,  
 
 ---
 
 ## Interests
-- Artificial Intelligence & Machine Learning  
-- Generative AI  
-- Competitive Programming & DSA  
-- Open Source Contributions  
+- Open Source Contributions
+- Problem Solving
 - Technical Blogging  
 
 ---
