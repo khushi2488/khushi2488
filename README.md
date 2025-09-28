@@ -10,6 +10,15 @@ I also enjoy sharing my knowledge through **technical blogs** on [Dev.to](https:
 
 ---
 
+## Open Source Badges
+
+<p align="center">
+  <a href="https://gssoc-tracker.netlify.app/dashboard?username=khushi2488">
+    <img src="[URL_of_Explorer_badge](https://gssoc-tracker.netlify.app/badges/Explorer-Badge.png)" width="100px" />
+  </a>
+</p>
+
+
 ## Skills
 - **Programming & Scripting:** Python, C/C++, Java, JavaScript  
 - **Web Development:** Django, React.Js 
