@@ -10,11 +10,11 @@ I also enjoy sharing my knowledge through **technical blogs** on [Dev.to](https:
 
 ---
 
-## Open Source Badges
+## 🪶 GSSoC ’25 Badges  
 
 <p align="center">
   <a href="https://gssoc-tracker.netlify.app/dashboard?username=khushi2488">
-    <img src="[URL_of_Explorer_badge](https://gssoc-tracker.netlify.app/badges/Explorer-Badge.png)" width="100px" />
+    <img src="[URL_OF_YOUR_FIRST_BADGE](https://gssoc-tracker.netlify.app/badges/Explorer-Badge.png)" width="100px" height="100px" />
   </a>
 </p>
 
