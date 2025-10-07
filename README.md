@@ -15,6 +15,7 @@ I also enjoy sharing my knowledge through **technical blogs** on [Dev.to](https:
 <div style="display:flex; align-items:center; gap: 10px;">
   <a href="https://gssoc.girlscript.tech/leaderboard">
     <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="155px" height="155px" alt="Explorer Badge" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="155px" height="155px" />
   </a>
 </div>
 
