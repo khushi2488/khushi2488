@@ -20,6 +20,13 @@ I also enjoy sharing my knowledge through **technical blogs** on [Dev.to](https:
   </a>
 </div>
 
+---
+
+## Hackoberfest 2025 Badges 
+
+[![An image of @khushi2488's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khushi2488)](https://holopin.io/@khushi2488)
+
+
 
 
 ## Skills
